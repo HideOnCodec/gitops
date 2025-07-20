@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: react-container
-          image: elmo3356/front-app:latest
+          image: elmo3356/front-app:v1.2.3
           ports:
             - containerPort: 80                           
